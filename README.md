@@ -26,7 +26,3 @@ Each week gets its own folder with a `notes.md`:
 - What confused me
 - What I'm revisiting and why
 - Links to relevant proof (TryHackMe profile, cert progress, etc.)
-
-## Weeks
-
-- [Week 1](./week-1/notes.md)
