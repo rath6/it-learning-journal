@@ -29,4 +29,4 @@ Each week gets its own folder with a `notes.md`:
 
 ## Weeks
 
-- [Week 1](./week-01/notes.md)
+- [Week 1](./week-1/notes.md)
