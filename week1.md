@@ -1,4 +1,4 @@
-# Week 1 — [date range]
+# Week 1 — 26th of june to 3rd of july
 
 ## What I did
 - Set up TryHackMe account (free tier)
