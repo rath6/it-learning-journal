@@ -12,7 +12,7 @@
 - learn the difference between `/etc/network/interfaces` and netplan/NetworkManager conflicts on newer Kali
 
 **What confused me**
--I could see DNS queries but didn't fully understand why some were repeated / what a retransmission looked like.
+- I could see DNS queries but didn't fully understand why some were repeated / what a retransmission looked like.
 
 **What I'm revisiting and why**
 - Definetly DNS queries 
