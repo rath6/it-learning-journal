@@ -1,4 +1,4 @@
-## Week 2
+# Week 2 — 3rd of july to 10th of july
 
 **What I did**
 - Practiced core Linux CLI commands until they stopped requiring a man page check: 
