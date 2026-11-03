@@ -67,12 +67,10 @@ Removed the reader and other unrecognised apps, revoked unknown special access p
 
 ## What I learned
 
-[Your words. Prompts: What would you do differently in the first five minutes? What did the permission dump tell you that the package name didn't?]
 
 ## What confused me
 
-[Your words. Prompts: Where were your assumptions wrong? What would you still need to check to be certain?]
-
+What consfused allot was actually getting use too the android layout and getting into safe mode/ getting into developer mode in order to get it to talk to me Kali linux machine through usb
 ## Evidence
 
 Screenshots are in `evidence/`, with personal details redacted.
