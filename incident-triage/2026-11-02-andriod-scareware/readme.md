@@ -3,7 +3,7 @@
 **Date:** 2026-11-02
 **Status:** No recurrence after 24 hours
 **Scope:** One Samsung Android phone belonging to someone I know, handled with the owner's permission. Personal details are redacted.
-**Tools:** Kali Linux, adb (Android platform tools), VirusTotal. All free.
+**Tools:** Kali Linux, adb (Android platform tools), VirusTotal. All free!!
 
 ## Summary
 
@@ -51,11 +51,12 @@ The package was a generic document reader clone. Its permissions pointed to adve
 | Device admin | Only the Samsung Knox Guard client, a stock component |
 | Enabled accessibility services | [paste result] |
 
-SHA-256 of base.apk: `[hash]`
+SHA-256 of base.apk: `c3e1bcfa815016f8238e27c40c6b6446eea210bd2f53779287e070153f17a8e5`
+
 
 VirusTotal returned no detections for this hash. That is weak evidence on its own, because freshly repacked adware is often not flagged yet.
 
-The package still appeared in the third-party list after my Safe Mode removal. [Explain what you found and how you confirmed it was gone. Only write what you verified.]
+The package still appeared in the third-party list after my Safe Mode removal. "com.alldocumentsreader.fileopener.viewandreadfiles.ppt.word.excel.docs.reader"
 
 ## What I could not confirm
 
@@ -63,14 +64,15 @@ Because the app could not draw overlays or send notifications, it may not have b
 
 ## Remediation
 
-Removed the reader and other unrecognised apps, revoked unknown special access permissions, cleared browser site permissions and data, and advised the owner to change passwords for any account they entered into the alerts. [Owner's answer on whether they entered credentials.]
+Removed the reader and other unrecognised apps, revoked unknown special access permissions, cleared browser site permissions and data, and advised the owner to change passwords for any account they entered into the alerts. Owner had entered credentials but was unaware of which apps so told them to change all passwords on a different device.
 
 ## What I learned
-
+I learned how to install and use Android debugging tools on Kali Linux, essentially. 
 
 ## What confused me
 
 What consfused allot was actually getting use too the android layout and getting into safe mode/ getting into developer mode in order to get it to talk to me Kali linux machine through usb
+
 ## Evidence
 
 Screenshots are in `evidence/`, with personal details redacted.
